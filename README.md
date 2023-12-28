@@ -1,6 +1,7 @@
 **Unity Developer**
 
 **Education**
+
 Computer Science, Bachelors
 
 ### **Work Experience**
